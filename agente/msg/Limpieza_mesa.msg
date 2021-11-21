@@ -1,0 +1,3 @@
+int8 numerodemesa_l
+int8 numeroderecoleccion
+int8 mesalimpia
